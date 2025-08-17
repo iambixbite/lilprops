@@ -277,17 +277,32 @@ export default function HomePage() {
               <h4 className="font-semibold mb-3">Community</h4>
               <ul className="space-y-2 text-sm text-gray-400">
                 <li>
-                  <a href="#" className="hover:text-white">
+                 <a
+                    href="https://discord.gg/55fhcDnbeY"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="hover:text-white"
+                  >
                     Discord
                   </a>
                 </li>
                 <li>
-                  <a href="#" className="hover:text-white">
+                  <a
+                    href="https://x.com/lilnounsdao"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="hover:text-white"
+                  >
                     Twitter
                   </a>
                 </li>
                 <li>
-                  <a href="#" className="hover:text-white">
+                  <a
+                    href="https://farcaster.xyz/~/channel/lilnounsdao"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="hover:text-white"
+                  >
                     Farcaster
                   </a>
                 </li>
